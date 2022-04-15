@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8843b7e.css",
+    "main.js": "/static/js/main.8e955bb9.js",
+    "static/media/6.jpg": "/static/media/6.639f632af20db4175a05.jpg",
+    "static/media/BYekan+ Bold.ttf": "/static/media/BYekan+ Bold.3e2154245604d626c3e0.ttf",
+    "static/media/BYekan+.ttf": "/static/media/BYekan+.f26972c64b83c2aea5ca.ttf",
+    "static/media/dl-sibapp-2.png": "/static/media/dl-sibapp-2.96f2c642e38cbd54728e.png",
+    "static/media/badge-new.png": "/static/media/badge-new.cb6ed78f4ae333f03aba.png",
+    "index.html": "/index.html",
+    "main.c8843b7e.css.map": "/static/css/main.c8843b7e.css.map",
+    "main.8e955bb9.js.map": "/static/js/main.8e955bb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8843b7e.css",
+    "static/js/main.8e955bb9.js"
+  ]
+}
